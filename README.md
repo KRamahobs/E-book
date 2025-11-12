@@ -5,10 +5,6 @@ Designed to highlight the book, pricing plans, chapters overview, reviews, and c
 
 ---
 
-## Demo
-
-Check out the live demo here:  
-[Live Demo](https://your-live-demo-link.com)
 
 ---
 

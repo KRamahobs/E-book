@@ -19,13 +19,6 @@ Designed to highlight the book, pricing plans, chapters overview, reviews, and c
 - Offcanvas sidebar for additional books
 - Built using **Bootstrap 5**, **Bootstrap Icons**, and minimal custom CSS
 
----
-
-## Screenshots
-
-![Home Page](screenshots/home.png)  
-![Pricing Section](screenshots/pricing.png)  
-![Chapters Accordion](screenshots/chapters.png)
 
 ---
 
